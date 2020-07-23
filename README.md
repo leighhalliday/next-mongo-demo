@@ -1,4 +1,4 @@
 # Next.js & MongoDB
 
-- YouTube: Coming soon!
-- Sponsor: [appsignal.com](https://www.appsignal.com)
+- YouTube: https://youtu.be/i-seOPDE3qI
+- Sponsor: https://www.appsignal.com
