@@ -1,3 +1,4 @@
-# Google Maps + Prisma
+# Next.js & MongoDB
 
-Demo application showing how to use Prisma to persist and load data with Postgres.
+- YouTube: Coming soon!
+- Sponsor: [appsignal.com](https://www.appsignal.com)
